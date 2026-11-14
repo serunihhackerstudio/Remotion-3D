@@ -1,0 +1,713 @@
+{
+ "scenes": [
+  {
+   "id": "s1",
+   "file": null,
+   "duration": 0,
+   "words": [
+    {
+     "w": "Kamu",
+     "start": 0.0,
+     "end": 0.28
+    },
+    {
+     "w": "injak",
+     "start": 0.32,
+     "end": 0.64
+    },
+    {
+     "w": "rem",
+     "start": 0.68,
+     "end": 0.92
+    },
+    {
+     "w": "sekuat",
+     "start": 0.96,
+     "end": 1.32
+    },
+    {
+     "w": "tenaga,",
+     "start": 1.36,
+     "end": 1.72
+    },
+    {
+     "w": "di",
+     "start": 1.9,
+     "end": 2.1
+    },
+    {
+     "w": "kecepatan",
+     "start": 2.14,
+     "end": 2.62
+    },
+    {
+     "w": "80",
+     "start": 2.66,
+     "end": 2.86
+    },
+    {
+     "w": "kilometer",
+     "start": 2.9,
+     "end": 3.38
+    },
+    {
+     "w": "per",
+     "start": 3.42,
+     "end": 3.66
+    },
+    {
+     "w": "jam.",
+     "start": 3.7,
+     "end": 3.94
+    },
+    {
+     "w": "Mobil",
+     "start": 4.12,
+     "end": 4.44
+    },
+    {
+     "w": "berhenti",
+     "start": 4.48,
+     "end": 4.92
+    },
+    {
+     "w": "di",
+     "start": 4.96,
+     "end": 5.16
+    },
+    {
+     "w": "mana?",
+     "start": 5.2,
+     "end": 5.48
+    }
+   ],
+   "estimated": 5.66
+  },
+  {
+   "id": "s2",
+   "file": null,
+   "duration": 0,
+   "words": [
+    {
+     "w": "Pertama,",
+     "start": 0.0,
+     "end": 0.4
+    },
+    {
+     "w": "otakmu",
+     "start": 0.58,
+     "end": 0.94
+    },
+    {
+     "w": "butuh",
+     "start": 0.98,
+     "end": 1.3
+    },
+    {
+     "w": "sekitar",
+     "start": 1.34,
+     "end": 1.74
+    },
+    {
+     "w": "1",
+     "start": 1.78,
+     "end": 1.94
+    },
+    {
+     "w": "detik",
+     "start": 1.98,
+     "end": 2.3
+    },
+    {
+     "w": "untuk",
+     "start": 2.34,
+     "end": 2.66
+    },
+    {
+     "w": "bereaksi.",
+     "start": 2.7,
+     "end": 3.14
+    },
+    {
+     "w": "Padahal",
+     "start": 3.32,
+     "end": 3.72
+    },
+    {
+     "w": "dalam",
+     "start": 3.76,
+     "end": 4.08
+    },
+    {
+     "w": "1",
+     "start": 4.12,
+     "end": 4.28
+    },
+    {
+     "w": "detik,",
+     "start": 4.32,
+     "end": 4.64
+    },
+    {
+     "w": "mobil",
+     "start": 4.82,
+     "end": 5.14
+    },
+    {
+     "w": "sudah",
+     "start": 5.18,
+     "end": 5.5
+    },
+    {
+     "w": "melaju",
+     "start": 5.54,
+     "end": 5.9
+    },
+    {
+     "w": "22",
+     "start": 5.94,
+     "end": 6.14
+    },
+    {
+     "w": "meter.",
+     "start": 6.18,
+     "end": 6.5
+    }
+   ],
+   "estimated": 6.68
+  },
+  {
+   "id": "s3",
+   "file": null,
+   "duration": 0,
+   "words": [
+    {
+     "w": "Lalu",
+     "start": 0.0,
+     "end": 0.28
+    },
+    {
+     "w": "ban",
+     "start": 0.32,
+     "end": 0.56
+    },
+    {
+     "w": "mulai",
+     "start": 0.6,
+     "end": 0.92
+    },
+    {
+     "w": "bekerja.",
+     "start": 0.96,
+     "end": 1.36
+    },
+    {
+     "w": "Di",
+     "start": 1.54,
+     "end": 1.74
+    },
+    {
+     "w": "aspal",
+     "start": 1.78,
+     "end": 2.1
+    },
+    {
+     "w": "kering,",
+     "start": 2.14,
+     "end": 2.5
+    },
+    {
+     "w": "mobil",
+     "start": 2.68,
+     "end": 3.0
+    },
+    {
+     "w": "butuh",
+     "start": 3.04,
+     "end": 3.36
+    },
+    {
+     "w": "sekitar",
+     "start": 3.4,
+     "end": 3.8
+    },
+    {
+     "w": "36",
+     "start": 3.84,
+     "end": 4.04
+    },
+    {
+     "w": "meter",
+     "start": 4.08,
+     "end": 4.4
+    },
+    {
+     "w": "lagi,",
+     "start": 4.44,
+     "end": 4.72
+    },
+    {
+     "w": "sampai",
+     "start": 4.9,
+     "end": 5.26
+    },
+    {
+     "w": "berhenti.",
+     "start": 5.3,
+     "end": 5.74
+    }
+   ],
+   "estimated": 5.92
+  },
+  {
+   "id": "s4",
+   "file": null,
+   "duration": 0,
+   "words": [
+    {
+     "w": "Di",
+     "start": 0.0,
+     "end": 0.2
+    },
+    {
+     "w": "aspal",
+     "start": 0.24,
+     "end": 0.56
+    },
+    {
+     "w": "basah,",
+     "start": 0.6,
+     "end": 0.92
+    },
+    {
+     "w": "gesekan",
+     "start": 1.1,
+     "end": 1.5
+    },
+    {
+     "w": "ban",
+     "start": 1.54,
+     "end": 1.78
+    },
+    {
+     "w": "turun",
+     "start": 1.82,
+     "end": 2.14
+    },
+    {
+     "w": "hampir",
+     "start": 2.18,
+     "end": 2.54
+    },
+    {
+     "w": "separuh.",
+     "start": 2.58,
+     "end": 2.98
+    },
+    {
+     "w": "Jaraknya",
+     "start": 3.16,
+     "end": 3.6
+    },
+    {
+     "w": "jadi",
+     "start": 3.64,
+     "end": 3.92
+    },
+    {
+     "w": "sekitar",
+     "start": 3.96,
+     "end": 4.36
+    },
+    {
+     "w": "63",
+     "start": 4.4,
+     "end": 4.6
+    },
+    {
+     "w": "meter,",
+     "start": 4.64,
+     "end": 4.96
+    },
+    {
+     "w": "total",
+     "start": 5.14,
+     "end": 5.46
+    },
+    {
+     "w": "85",
+     "start": 5.5,
+     "end": 5.7
+    },
+    {
+     "w": "meter.",
+     "start": 5.74,
+     "end": 6.06
+    }
+   ],
+   "estimated": 6.24
+  },
+  {
+   "id": "s5",
+   "file": null,
+   "duration": 0,
+   "words": [
+    {
+     "w": "Masalahnya,",
+     "start": 0.0,
+     "end": 0.52
+    },
+    {
+     "w": "kalau",
+     "start": 0.7,
+     "end": 1.02
+    },
+    {
+     "w": "rem",
+     "start": 1.06,
+     "end": 1.3
+    },
+    {
+     "w": "diinjak",
+     "start": 1.34,
+     "end": 1.74
+    },
+    {
+     "w": "terlalu",
+     "start": 1.78,
+     "end": 2.18
+    },
+    {
+     "w": "keras,",
+     "start": 2.22,
+     "end": 2.54
+    },
+    {
+     "w": "ban",
+     "start": 2.72,
+     "end": 2.96
+    },
+    {
+     "w": "bisa",
+     "start": 3.0,
+     "end": 3.28
+    },
+    {
+     "w": "terkunci.",
+     "start": 3.32,
+     "end": 3.76
+    },
+    {
+     "w": "Ban",
+     "start": 3.94,
+     "end": 4.18
+    },
+    {
+     "w": "yang",
+     "start": 4.22,
+     "end": 4.5
+    },
+    {
+     "w": "terkunci",
+     "start": 4.54,
+     "end": 4.98
+    },
+    {
+     "w": "meluncur,",
+     "start": 5.02,
+     "end": 5.46
+    },
+    {
+     "w": "dan",
+     "start": 5.64,
+     "end": 5.88
+    },
+    {
+     "w": "setir",
+     "start": 5.92,
+     "end": 6.24
+    },
+    {
+     "w": "tidak",
+     "start": 6.28,
+     "end": 6.6
+    },
+    {
+     "w": "lagi",
+     "start": 6.64,
+     "end": 6.92
+    },
+    {
+     "w": "menurut.",
+     "start": 6.96,
+     "end": 7.36
+    }
+   ],
+   "estimated": 7.54
+  },
+  {
+   "id": "s6",
+   "file": null,
+   "duration": 0,
+   "words": [
+    {
+     "w": "Di",
+     "start": 0.0,
+     "end": 0.2
+    },
+    {
+     "w": "sinilah",
+     "start": 0.24,
+     "end": 0.64
+    },
+    {
+     "w": "ABS",
+     "start": 0.68,
+     "end": 0.92
+    },
+    {
+     "w": "bekerja.",
+     "start": 0.96,
+     "end": 1.36
+    },
+    {
+     "w": "Sensor",
+     "start": 1.54,
+     "end": 1.9
+    },
+    {
+     "w": "membaca",
+     "start": 1.94,
+     "end": 2.34
+    },
+    {
+     "w": "putaran",
+     "start": 2.38,
+     "end": 2.78
+    },
+    {
+     "w": "roda,",
+     "start": 2.82,
+     "end": 3.1
+    },
+    {
+     "w": "lalu",
+     "start": 3.28,
+     "end": 3.56
+    },
+    {
+     "w": "melepas",
+     "start": 3.6,
+     "end": 4.0
+    },
+    {
+     "w": "dan",
+     "start": 4.04,
+     "end": 4.28
+    },
+    {
+     "w": "menekan",
+     "start": 4.32,
+     "end": 4.72
+    },
+    {
+     "w": "rem",
+     "start": 4.76,
+     "end": 5.0
+    },
+    {
+     "w": "belasan",
+     "start": 5.04,
+     "end": 5.44
+    },
+    {
+     "w": "kali",
+     "start": 5.48,
+     "end": 5.76
+    },
+    {
+     "w": "per",
+     "start": 5.8,
+     "end": 6.04
+    },
+    {
+     "w": "detik.",
+     "start": 6.08,
+     "end": 6.4
+    }
+   ],
+   "estimated": 6.58
+  },
+  {
+   "id": "s7",
+   "file": null,
+   "duration": 0,
+   "words": [
+    {
+     "w": "Hasilnya,",
+     "start": 0.0,
+     "end": 0.44
+    },
+    {
+     "w": "roda",
+     "start": 0.62,
+     "end": 0.9
+    },
+    {
+     "w": "tetap",
+     "start": 0.94,
+     "end": 1.26
+    },
+    {
+     "w": "berputar,",
+     "start": 1.3,
+     "end": 1.74
+    },
+    {
+     "w": "dan",
+     "start": 1.92,
+     "end": 2.16
+    },
+    {
+     "w": "kamu",
+     "start": 2.2,
+     "end": 2.48
+    },
+    {
+     "w": "masih",
+     "start": 2.52,
+     "end": 2.84
+    },
+    {
+     "w": "bisa",
+     "start": 2.88,
+     "end": 3.16
+    },
+    {
+     "w": "membelokkan",
+     "start": 3.2,
+     "end": 3.76
+    },
+    {
+     "w": "mobil",
+     "start": 3.8,
+     "end": 4.12
+    },
+    {
+     "w": "untuk",
+     "start": 4.16,
+     "end": 4.48
+    },
+    {
+     "w": "menghindar.",
+     "start": 4.52,
+     "end": 5.04
+    }
+   ],
+   "estimated": 5.22
+  },
+  {
+   "id": "s8",
+   "file": null,
+   "duration": 0,
+   "words": [
+    {
+     "w": "Jadi",
+     "start": 0.0,
+     "end": 0.28
+    },
+    {
+     "w": "saat",
+     "start": 0.32,
+     "end": 0.6
+    },
+    {
+     "w": "darurat:",
+     "start": 0.64,
+     "end": 1.04
+    },
+    {
+     "w": "injak",
+     "start": 1.22,
+     "end": 1.54
+    },
+    {
+     "w": "penuh,",
+     "start": 1.58,
+     "end": 1.9
+    },
+    {
+     "w": "jangan",
+     "start": 2.08,
+     "end": 2.44
+    },
+    {
+     "w": "dilepas,",
+     "start": 2.48,
+     "end": 2.88
+    },
+    {
+     "w": "lalu",
+     "start": 3.06,
+     "end": 3.34
+    },
+    {
+     "w": "belokkan.",
+     "start": 3.38,
+     "end": 3.82
+    },
+    {
+     "w": "Kalau",
+     "start": 4.0,
+     "end": 4.32
+    },
+    {
+     "w": "pedal",
+     "start": 4.36,
+     "end": 4.68
+    },
+    {
+     "w": "bergetar,",
+     "start": 4.72,
+     "end": 5.16
+    },
+    {
+     "w": "tenang,",
+     "start": 5.34,
+     "end": 5.7
+    },
+    {
+     "w": "itu",
+     "start": 5.88,
+     "end": 6.12
+    },
+    {
+     "w": "ABS-nya",
+     "start": 6.16,
+     "end": 6.52
+    },
+    {
+     "w": "bekerja.",
+     "start": 6.56,
+     "end": 6.96
+    },
+    {
+     "w": "Kamu",
+     "start": 7.14,
+     "end": 7.42
+    },
+    {
+     "w": "pernah",
+     "start": 7.46,
+     "end": 7.82
+    },
+    {
+     "w": "merasakannya?",
+     "start": 7.86,
+     "end": 8.46
+    }
+   ],
+   "estimated": 8.64
+  }
+ ]
+}

@@ -1,0 +1,15 @@
+{
+  "voice": "id-ID-ArdiNeural",
+  "rate": "+4%",
+  "pitch": "-2Hz",
+  "scenes": [
+    {"id": "s1", "text": "Kamu injak rem sekuat tenaga, di kecepatan 80 kilometer per jam. Mobil berhenti di mana?"},
+    {"id": "s2", "text": "Pertama, otakmu butuh sekitar 1 detik untuk bereaksi. Padahal dalam 1 detik, mobil sudah melaju 22 meter."},
+    {"id": "s3", "text": "Lalu ban mulai bekerja. Di aspal kering, mobil butuh sekitar 36 meter lagi, sampai berhenti."},
+    {"id": "s4", "text": "Di aspal basah, gesekan ban turun hampir separuh. Jaraknya jadi sekitar 63 meter, total 85 meter."},
+    {"id": "s5", "text": "Masalahnya, kalau rem diinjak terlalu keras, ban bisa terkunci. Ban yang terkunci meluncur, dan setir tidak lagi menurut."},
+    {"id": "s6", "text": "Di sinilah ABS bekerja. Sensor membaca putaran roda, lalu melepas dan menekan rem belasan kali per detik."},
+    {"id": "s7", "text": "Hasilnya, roda tetap berputar, dan kamu masih bisa membelokkan mobil untuk menghindar."},
+    {"id": "s8", "text": "Jadi saat darurat: injak penuh, jangan dilepas, lalu belokkan. Kalau pedal bergetar, tenang, itu ABS-nya bekerja. Kamu pernah merasakannya?"}
+  ]
+}

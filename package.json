@@ -1,0 +1,30 @@
+{
+  "name": "remotion-3d",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "tts": "python tts/generate_tts.py",
+    "sfx": "python tts/make_sfx.py public/sfx && python tts/make_extra_sfx.py public/sfx",
+    "studio": "remotion studio src/index.ts",
+    "typecheck": "tsc --noEmit",
+    "render": "remotion render src/index.ts Main out/video.mp4 --codec=h264 --crf=18 --gl=angle",
+    "thumb": "remotion still src/index.ts Thumbnail out/thumbnail.png --gl=angle"
+  },
+  "dependencies": {
+    "@fontsource/jetbrains-mono": "^5.3.0",
+    "@fontsource/plus-jakarta-sans": "^5.3.0",
+    "@react-three/fiber": "8.17.10",
+    "@remotion/cli": "4.0.250",
+    "@remotion/google-fonts": "4.0.250",
+    "@remotion/three": "4.0.250",
+    "react": "18.3.1",
+    "react-dom": "18.3.1",
+    "remotion": "4.0.250",
+    "three": "0.169.0"
+  },
+  "devDependencies": {
+    "@types/react": "18.3.12",
+    "@types/three": "0.169.0",
+    "typescript": "5.6.3"
+  }
+}
