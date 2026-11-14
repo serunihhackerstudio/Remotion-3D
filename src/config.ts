@@ -22,12 +22,12 @@ export const SCENES: SceneConfig[] = [
   {id: "s5", seconds: 8.0, lead: 0.2, tail: 0.3, keywords: ["terkunci", "meluncur", "setir"]},
   {id: "s6", seconds: 7.1, lead: 0.2, tail: 0.3, keywords: ["ABS", "sensor", "belasan"]},
   {id: "s7", seconds: 5.7, lead: 0.2, tail: 0.3, keywords: ["berputar", "membelokkan"]},
-  {id: "s8", seconds: 9.4, lead: 0.2, tail: 0.6, keywords: ["injak", "belokkan", "bergetar"]},
+  {id: "s8", seconds: 9.4, lead: 0.2, tail: 0.6, keywords: ["injak", "belokkan", "bergetar", "ABS-nya"]},
 ];
 
 // Thumbnail/cover Reels: frame global dengan visual paling kuat
 export const THUMB = {
-  frame: 770,
+  frame: 1090,
   badge: "Fisika jalan raya",
   line1: [{t: "Rem mendadak"}],
   line2: [{t: "ban terkunci?", hl: true}],
